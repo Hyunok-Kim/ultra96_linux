@@ -1,0 +1,7 @@
+balenaEtcher - Flash OS images to SD cards & USB drives ---> https://etcher.balena.io/
+petalinux-v2023.2-10121855-installer.run ---> https://1drv.ms/u/s!AugbD-Nk6q_j5UE3bwWU3zhP3Uos?e=xEDrUm
+downloads_2023.tgz ---> https://1drv.ms/u/s!AugbD-Nk6q_j5T-8NZT0yB3pgrNQ?e=wTHfIP
+sstate-cache_2023_ultra96.tgz ---> https://1drv.ms/u/s!AugbD-Nk6q_j5T4nVdrNUFLQ3Xg7?e=8vTYqo
+Solution Zynq PL Programming With FPGA Manager - Xilinx Wiki - Confluence (atlassian.net) ---> https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841645/Solution+Zynq+PL+Programming+With+FPGA+Manager
+GitHub - balena-io/etcher: Flash OS images to SD cards & USB drives, safely and easily. ---> https://github.com/balena-io/etcher#debian-and-ubuntu-based-package-repository-gnulinux-x86x64
+dt-schema/dtschema/schemas/graph.yaml at main · devicetree-org/dt-schema · GitHub ---> https://github.com/devicetree-org/dt-schema/blob/main/dtschema/schemas/graph.yaml
